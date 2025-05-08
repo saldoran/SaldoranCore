@@ -1,0 +1,2 @@
+# SaldoranCore
+С++ header lib
