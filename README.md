@@ -2,6 +2,11 @@
 
 **SaldoranCore** — personal C++ header-only utility library.
 
+## TODO:
+	•	Add utilities like startsWith, endsWith.
+	•	Provide a constexpr version of the parser.
+	•	Additional string and container utilities as the library evolves.
+
 ## Currently supports:
 - User-defined literal `_l` for creating string lists from comma-separated string literals.
 - `indexOf` and `at` methods for searching and accessing elements.
